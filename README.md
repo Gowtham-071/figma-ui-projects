@@ -58,3 +58,4 @@ This repo contains Figma designs of two innovative app projects — crafted with
 For convenience or offline sharing:  
 📄 [figma_links.txt](./figma_links.txt)
 
+---
