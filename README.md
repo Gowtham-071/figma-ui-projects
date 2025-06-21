@@ -1,4 +1,4 @@
-# 🎨 Gowtham’s UI Design Showcase
+# 🎨UI Design Showcase
 
 This repo contains Figma designs of two innovative app projects — crafted with user-centric thinking and clean UI principles.
 
